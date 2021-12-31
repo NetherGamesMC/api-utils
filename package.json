@@ -1,6 +1,6 @@
 {
   "name": "@nethergames/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilities for working with the NetherGames API.",
   "keywords": [
     "nethergames",
@@ -17,10 +17,6 @@
   },
   "license": "MIT",
   "author": "Hampus Kraft <casper@nethergames.org>",
-  "exports": {
-    "default": "./dist/index.modern.js",
-    "require": "./dist/index.cjs"
-  },
   "main": "./dist/index.js",
   "unpkg": "./dist/index.umd.js",
   "module": "./dist/index.module.js",
