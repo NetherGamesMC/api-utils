@@ -1,20 +1,20 @@
-lockfileVersion: 5.3
+lockfileVersion: 5.4
 
 specifiers:
-  '@sindresorhus/tsconfig': ^2.0.0
+  '@sindresorhus/tsconfig': ^3.0.0
   prettier: ^2.6.2
-  typescript: ^4.6.4
+  typescript: ^4.7.2
 
 devDependencies:
-  '@sindresorhus/tsconfig': 2.0.0
+  '@sindresorhus/tsconfig': 3.0.0
   prettier: 2.6.2
-  typescript: 4.6.4
+  typescript: 4.7.2
 
 packages:
 
-  /@sindresorhus/tsconfig/2.0.0:
-    resolution: {integrity: sha512-1nsyWtFtPpVjEnNzp2rd03BVz84BYHeW7LNYvmcj3q4jAgJL2hl0XBp3WmDFFPjFLF3w+L0XEYqhjWUTU+TCzw==}
-    engines: {node: '>=12'}
+  /@sindresorhus/tsconfig/3.0.0:
+    resolution: {integrity: sha512-sXwNYvmvVND85UbnUEv7U0c4IjkVkY9o5HElCT5CDx7wKvYFzpc9w+UVG/c6C7i1RNDH/MYF3k1QWwkk9O823w==}
+    engines: {node: '>=14'}
     dev: true
 
   /prettier/2.6.2:
@@ -23,8 +23,8 @@ packages:
     hasBin: true
     dev: true
 
-  /typescript/4.6.4:
-    resolution: {integrity: sha512-9ia/jWHIEbo49HfjrLGfKbZSuWo9iTMwXO+Ca3pRsSpbsMbc7/IU8NKdCZVRRBafVPGnoJeFL76ZOAA84I9fEg==}
+  /typescript/4.7.2:
+    resolution: {integrity: sha512-Mamb1iX2FDUpcTRzltPxgWMKy3fhg0TN378ylbktPGPK/99KbDtMQ4W1hwgsbPAsG3a0xKa1vmw4VKZQbkvz5A==}
     engines: {node: '>=4.2.0'}
     hasBin: true
     dev: true
