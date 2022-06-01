@@ -1,19 +1,19 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@sindresorhus/tsconfig': ^3.0.0
+  '@sindresorhus/tsconfig': ^3.0.1
   prettier: ^2.6.2
   typescript: ^4.7.2
 
 devDependencies:
-  '@sindresorhus/tsconfig': 3.0.0
+  '@sindresorhus/tsconfig': 3.0.1
   prettier: 2.6.2
   typescript: 4.7.2
 
 packages:
 
-  /@sindresorhus/tsconfig/3.0.0:
-    resolution: {integrity: sha512-sXwNYvmvVND85UbnUEv7U0c4IjkVkY9o5HElCT5CDx7wKvYFzpc9w+UVG/c6C7i1RNDH/MYF3k1QWwkk9O823w==}
+  /@sindresorhus/tsconfig/3.0.1:
+    resolution: {integrity: sha512-0/gtPNTY3++0J2BZM5nHHULg0BIMw886gqdn8vWN+Av6bgF5ZU2qIcHubAn+Z9KNvJhO8WFE+9kDOU3n6OcKtA==}
     engines: {node: '>=14'}
     dev: true
 
