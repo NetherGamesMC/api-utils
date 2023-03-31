@@ -24,7 +24,7 @@
   "devDependencies": {
     "@sindresorhus/tsconfig": "3.0.1",
     "prettier": "2.8.7",
-    "typescript": "5.0.2"
+    "typescript": "5.0.3"
   },
   "engines": {
     "node": ">=14.16"
