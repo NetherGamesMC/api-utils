@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@sindresorhus/tsconfig": "3.0.1",
-    "prettier": "2.8.7",
+    "prettier": "2.8.8",
     "typescript": "5.0.4"
   },
   "engines": {
