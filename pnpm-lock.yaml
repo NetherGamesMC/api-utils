@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   '@sindresorhus/tsconfig':
-    specifier: 5.0.0
-    version: 5.0.0
+    specifier: 5.1.1
+    version: 5.1.1
   prettier:
     specifier: 3.3.2
     version: 3.3.2
@@ -17,8 +17,8 @@ devDependencies:
 
 packages:
 
-  /@sindresorhus/tsconfig@5.0.0:
-    resolution: {integrity: sha512-LvvySslVPhAwo7dT+iovKXKCmJD82yYAsH/3D5BSyT3YP9Dvhdlhy0eQr0DBE0CxeFO6Wdbco3+nB+c2QYcAaA==}
+  /@sindresorhus/tsconfig@5.1.1:
+    resolution: {integrity: sha512-+2oF5II0d+0qKykD4GoM6hak0fpBgBMlQjpMF/xKReztc9MTMeldESdbhHo0rI/Iq3cEuhPy4/RStYbVFtWfog==}
     engines: {node: '>=18'}
     dev: true
 
