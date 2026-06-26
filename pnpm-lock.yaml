@@ -9,8 +9,8 @@ devDependencies:
     specifier: 8.1.0
     version: 8.1.0
   prettier:
-    specifier: 3.8.4
-    version: 3.8.4
+    specifier: 3.8.5
+    version: 3.8.5
   typescript:
     specifier: 6.0.3
     version: 6.0.3
@@ -22,8 +22,8 @@ packages:
     engines: {node: '>=20'}
     dev: true
 
-  /prettier@3.8.4:
-    resolution: {integrity: sha512-N2MylSdi48+5N/6S5j+maeHbUSIzzZ5uOcX5Hm4QpV8Dkb1HFjfAKTKX6yNPJQD9AhcT3ifHNB66tWTTJDi11Q==}
+  /prettier@3.8.5:
+    resolution: {integrity: sha512-zxcTTCedNGJM4R8sj/Cq/F0W/c4iE0afWBcBwMTRtw4WHYP9TWkYjdiH3npPRUYsXQCPR0hTU9yjovOu+E6EQA==}
     engines: {node: '>=14'}
     hasBin: true
     dev: true
