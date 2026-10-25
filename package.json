@@ -22,7 +22,7 @@
     "prepublishOnly": "npm run -s build"
   },
   "devDependencies": {
-    "@sindresorhus/tsconfig": "8.1.0",
+    "@sindresorhus/tsconfig": "9.0.0",
     "prettier": "3.9.10",
     "typescript": "7.0.2"
   },
